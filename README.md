@@ -1,2 +1,2 @@
-# php-blog
-php-blog
+#Blog Posts
+Show, edit, update and delete posts from database.
